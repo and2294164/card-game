@@ -43,7 +43,7 @@ public class StandardDeck implements Deck {
 
         this.cards.clear();
         this.cards.addAll(bottom);
-        this.cards.addAll(bottom);
+        this.cards.addAll(top);
 
     }
 
